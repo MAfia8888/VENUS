@@ -1,9 +1,9 @@
 # VENUS
-/***************************************************/
+
 Ethereum smart contract for VENUS token;
 Written in pragma solidity;
 Deployed on 2017 November;
-/***************************************************/
+
 
 About project:
 The VenusCoin team supports the idea of pure world and seeks to propagate the use of renewable energy sources in daily activities. The increase of Bitcoin demand will also result in the increase of the scope of mining works, while using renewable energy sources in performing the works leads to saving nature, whereas the work is done in the same efficient manner. The result of VenusCoin project is mining platform where electricity is made from renewable energy sources.
