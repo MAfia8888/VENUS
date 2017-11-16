@@ -1,8 +1,8 @@
 # VENUS
 
-Ethereum smart contract for VENUS token;
-Written in pragma solidity;
-Deployed on 2017 November;
+Ethereum smart contract for VENUS token;</br>
+Written in pragma solidity;</br>
+Deployed on 2017 November;</br>
 
 
 About project:
