@@ -17,9 +17,9 @@ Decimals: 3</br>
 
 Coin Name: VenusEnergy,</br>
 Coin Abbreviation: VENUS,</br>
-Coin Type: Ethereum token</br>
-Total Coins: 80,000,000,000</br>
-Code language: pragma solidity</br>
+Coin Type: Ethereum token,</br>
+Total Coins: 80,000,000,000,</br>
+Code language: pragma solidity.</br>
 
 For more information:</br>
 
